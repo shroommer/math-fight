@@ -11,7 +11,7 @@ An interactive, graph-powered arithmetic arithmetic duel game built with Python 
 1. Clone the repository and navigate into the project root directory:
 ```bash
 git clone https://github.com
-cd math-fight-beta
+cd math-fight
 ```
 
 2. Install the required external core libraries using the package installer:
